@@ -11,4 +11,4 @@
   
 * WORDS & SIGNS - Educational word learning + sign-language interactive AR app optimised for kids aged 2-5 years old. 
 
-
+* TimeZone's Display App - ALPHA State (missing ability to 'pin' favorite timezones)
